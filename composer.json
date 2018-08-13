@@ -1,0 +1,22 @@
+{
+    "name": "ferdhika31/laravel-lang-id",
+    "description": "Indonesian language localization for Laravel 5.4",
+    "type": "language",
+    "keywords": ["localization", "laravel", "indonesian"],
+    "require": {
+        "php": ">=5.6.4",
+        "laravel/framework": "5.4.*"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ferdhika31\\LaravelLangID\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ferdhika Yudira",
+            "email": "rpl4rt08@gmail.com"
+        }
+    ]
+}
