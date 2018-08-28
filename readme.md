@@ -1,7 +1,7 @@
 # Laravel Language ID
-Laravel 5.4.* Laravel Language ID
+Laravel 5.* Laravel Language ID
 
-Package Laravel ini untuk kebutuhan localization bahasa indonesia default untuk laravel 5.4.*
+Package Laravel ini untuk kebutuhan localization bahasa indonesia default untuk laravel 5.*
 
 ## Instalasi
 
